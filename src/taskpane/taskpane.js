@@ -36,5 +36,5 @@ export async function run() {
 }
 
 function openUrl() {
-  window.open('https://www.google.co.jp', '_blank');
+  window.open("https://www.google.co.jp", "_blank");
 }
